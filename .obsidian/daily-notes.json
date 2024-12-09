@@ -1,0 +1,5 @@
+{
+  "autorun": true,
+  "folder": "01-DailyFlow",
+  "template": "00-CommandCenter/Templates/DailyNoteTemplate"
+}
